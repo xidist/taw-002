@@ -27,7 +27,7 @@ for src in seq_sources:
 
 seq = p.op('sequencer1')
 if seq is not None:
-    seq.par.dat = dat
+    seq.par.datlist = dat
     seq.par.blendscope = ''
     seq.par.addscope = ''
 
@@ -53,14 +53,13 @@ sources = [
 
 for i, src in enumerate(sources):
     if src is not None:
+        if hasattr(src.par, 'play'):
+            src.par.play = 1
         sw.inputConnectors[i].connect(src)
 
-# Use the Sequencer's index channel; otherwise keep index at 0.
-# round/int prevents blend/interpolation values from confusing the Switch TOP.
-sw.par.index.expr = (
-    "int(round(op('/project1/sequencer1')['index'].eval())) "
-    "if op('/project1/sequencer1') and op('/project1/sequencer1')['index'] else 0"
-)
+# Animate the image sequence directly. This changes image every 60 frames.
+# If you want it faster/slower, change 60 to another frame count.
+sw.par.index.expr = "int(absTime.frame / 60) % 5"
 
 # Add a clean output TOP after the switch.
 out = p.op('sequenced_movie_out')
@@ -71,5 +70,6 @@ out.nodeX = sw.nodeX + 180
 out.nodeY = sw.nodeY
 out.inputConnectors[0].connect(sw)
 out.viewer = True
+out.display = True
 
-print('Done: sequencer1 drives switch_top_movies, and sequenced_movie_out shows the selected image.')
+print('Done: switch_top_movies cycles moviefilein6-10, and sequenced_movie_out shows the animated sequence.')
