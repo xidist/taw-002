@@ -1,0 +1,14 @@
+{
+  "export_dir": "notion_exports",
+  "title_property": null,
+  "day_property": "day",
+  "extra_day_properties": ["Tags", "song"],
+  "toe_property": ".TOE",
+  "filter": null,
+  "sorts": [
+    {
+      "timestamp": "last_edited_time",
+      "direction": "descending"
+    }
+  ]
+}
