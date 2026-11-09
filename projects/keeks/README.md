@@ -12,6 +12,7 @@ Build from an authored-note chatbot demo and an experimental QLoRA training/eval
 - [Source files / original notes](https://github.com/xidist/keeks-the-geek)
 - [Implementation README](https://github.com/xidist/keeks-the-geek/blob/main/README.md)
 - [The Artist’s Way gallery](https://xidist.xyz/artists-way.html)
+- [Dated project entry](../dates/2026-11-08/keeks/README.md)
 - [All project READMEs](../README.md)
 
 ## Preview

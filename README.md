@@ -5,7 +5,8 @@
 An evolving archive of visual experiments, guitar interfaces, source prototypes, and the notes that connect them.
 
 - [The Artist’s Way — illustrated website](https://xidist.xyz/artists-way.html)
-- [All 25 projects: dated READMEs, links, and previews](projects/README.md)
+- [All 25 projects: READMEs, links, and previews](projects/README.md)
+- [Projects by date: project and repository READMEs](projects/dates/README.md)
 - [Personal Notion workbook · TAWWB: TD](https://www.notion.so/1ffa70bb517c8029a262cb07f2ee8fcc) — current project overview, weekly assignments, and session prompts.
 - [Practice, workbook, and learning resources](ARTISTS_WAY.md)
 - [Reusable practice-log template](docs/practice-log-template.md)

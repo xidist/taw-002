@@ -12,6 +12,7 @@ Turn jaw movement into an expressive guitar wah with an editable TouchDesigner b
 - [Source files / original notes](https://github.com/xidist/mini-finger-fuzz)
 - [Implementation README](https://github.com/xidist/mini-finger-fuzz/blob/main/README.md)
 - [The Artist’s Way gallery](https://xidist.xyz/artists-way.html)
+- [Dated project entry](../dates/2026-11-06/mouth-wah-mini/README.md)
 - [All project READMEs](../README.md)
 
 ## Preview

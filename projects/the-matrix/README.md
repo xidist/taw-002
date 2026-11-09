@@ -11,6 +11,9 @@ A recorded visual experiment with a linked tutorial and animation.
 - [Website project / collection entry](https://xidist.xyz/artists-way.html#the-matrix)
 - [Source files / original notes](https://github.com/xidist/taw-002/blob/main/hermarshaspeaks%20touchdesigner/td%20projects/THE%20MATRIX%20361a70bb517c80a3999ede23b9560db5.md)
 - [The Artist’s Way gallery](https://xidist.xyz/artists-way.html)
+- [Dated project entry](../dates/2026-05-15/the-matrix/README.md)
+- [Source repository](https://github.com/xidist/taw-002)
+- [Repository README](../../README.md)
 - [All project READMEs](../README.md)
 
 ## Preview

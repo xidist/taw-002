@@ -11,6 +11,9 @@ A compact calibration toolkit for turning an existing camera-tracking channel in
 - [Website project / collection entry](https://xidist.xyz/touchdesigner.html#mediapipe)
 - [Source files / original notes](https://github.com/xidist/taw-002/blob/main/hermarshaspeaks%20touchdesigner/td%20projects/mediapipe%20touchdesigner%20522854bc038e4eecbfa769a9bc5c4804.md)
 - [The Artist’s Way gallery](https://xidist.xyz/artists-way.html)
+- [Dated project entry](../dates/2023-11-28/mediapipe/README.md)
+- [Source repository](https://github.com/xidist/taw-002)
+- [Repository README](../../README.md)
 - [All project READMEs](../README.md)
 
 ## Preview

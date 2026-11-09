@@ -11,6 +11,9 @@ An unfinished tutorial study, with Lake Heckaman and ray-tracing references pres
 - [Website project / collection entry](https://xidist.xyz/artists-way.html#caustics)
 - [Source files / original notes](https://github.com/xidist/taw-002/blob/main/hermarshaspeaks%20touchdesigner/td%20projects/caustics%20-%20luke%20heckaman%208e25533b9a2c4f1d826334f898c34904.md)
 - [The Artist’s Way gallery](https://xidist.xyz/artists-way.html)
+- [Dated project entry](../dates/2023-11-12/caustics/README.md)
+- [Source repository](https://github.com/xidist/taw-002)
+- [Repository README](../../README.md)
 - [All project READMEs](../README.md)
 
 ## Preview

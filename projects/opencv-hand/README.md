@@ -11,6 +11,9 @@ Saved TouchDesigner .toe project in the taw-002 practice archive.
 - [Website project / collection entry](https://xidist.xyz/artists-way.html#opencv-hand)
 - [Source files / original notes](https://github.com/xidist/taw-002/blob/main/day%207%20-%20open_cv%20hand%20proj/opencv_hand_project.toe)
 - [The Artist’s Way gallery](https://xidist.xyz/artists-way.html)
+- [Dated project entry](../dates/unverified/opencv-hand/README.md)
+- [Source repository](https://github.com/xidist/taw-002)
+- [Repository README](../../README.md)
 - [All project READMEs](../README.md)
 
 ## Preview

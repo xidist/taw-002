@@ -12,6 +12,7 @@ Two hands define a four-corner window over a camera feed and reveal a psychedeli
 - [Source files / original notes](https://github.com/xidist/chroma-portal)
 - [Implementation README](https://github.com/xidist/chroma-portal/blob/main/README.md)
 - [The Artist’s Way gallery](https://xidist.xyz/artists-way.html)
+- [Dated project entry](../dates/2026-11-09/chroma-portal/README.md)
 - [All project READMEs](../README.md)
 
 ## Preview

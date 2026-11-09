@@ -11,6 +11,9 @@ Saved TouchDesigner .tox component in the taw-002 practice archive.
 - [Website project / collection entry](https://xidist.xyz/artists-way.html#invisibility)
 - [Source files / original notes](https://github.com/xidist/taw-002/blob/main/day6-mediapipe/Invisibility.tox)
 - [The Artist’s Way gallery](https://xidist.xyz/artists-way.html)
+- [Dated project entry](../dates/unverified/invisibility/README.md)
+- [Source repository](https://github.com/xidist/taw-002)
+- [Repository README](../../README.md)
 - [All project READMEs](../README.md)
 
 ## Preview

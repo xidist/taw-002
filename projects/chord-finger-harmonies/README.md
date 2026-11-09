@@ -11,6 +11,9 @@ A concept for using finger signs to trigger chords. This is a design note, separ
 - [Website project / collection entry](https://xidist.xyz/artists-way.html#chord-finger-harmonies)
 - [Source files / original notes](https://github.com/xidist/taw-002/blob/main/hermarshaspeaks%20touchdesigner/td%20projects/chord%20finger%20harmonies%20360a70bb517c803797dbcca5280877d0.md)
 - [The Artist’s Way gallery](https://xidist.xyz/artists-way.html)
+- [Dated project entry](../dates/2026-05-14/chord-finger-harmonies/README.md)
+- [Source repository](https://github.com/xidist/taw-002)
+- [Repository README](../../README.md)
 - [All project READMEs](../README.md)
 
 ## Preview
