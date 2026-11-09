@@ -4,7 +4,7 @@ Last documentation update: **2026-11-09**. 25 entries: current projects, downloa
 
 Dates are labeled by their evidence: repository creation (UTC), original note creation, or documentation update. A note date is not a product-release date.
 
-[Illustrated website gallery](https://xidist.xyz/artists-way.html) · [Patreon and TikTok link register](../docs/commerce-links.md)
+[Browse projects by date](dates/README.md) · [Illustrated website gallery](https://xidist.xyz/artists-way.html) · [Patreon and TikTok link register](../docs/commerce-links.md)
 
 ## Current projects
 
