@@ -6,7 +6,9 @@ An evolving archive of visual experiments, guitar interfaces, source prototypes,
 
 - [The Artist’s Way — illustrated website](https://xidist.xyz/artists-way.html)
 - [All 25 projects: dated READMEs, links, and previews](projects/README.md)
+- [Personal Notion workbook · TAWWB: TD](https://www.notion.so/1ffa70bb517c8029a262cb07f2ee8fcc) — current project overview, weekly assignments, and session prompts.
 - [Practice, workbook, and learning resources](ARTISTS_WAY.md)
+- [Reusable practice-log template](docs/practice-log-template.md)
 - [Patreon products and TikTok Shop status](docs/commerce-links.md)
 - [Portfolio constellation](https://xidist.xyz/) · [TouchDesigner network](https://xidist.xyz/touchdesigner.html) · [Résumé](https://xidist.xyz/resume.html)
 
