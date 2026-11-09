@@ -1,4 +1,35 @@
-# [hermarshaspeaks: touchdesigner](https://www.notion.so/hermarshaspeaks-touchdesigner-92b1b5bea2334999abe600b15e7c68cf?source=copy_link)
+# taw-002 · The Artist’s Way / TouchDesigner
+
+**Updated 2026-11-09** · Kidist Wosenyeleh / Kiki / xidist
+
+An evolving archive of visual experiments, guitar interfaces, source prototypes, and the notes that connect them.
+
+- [The Artist’s Way — illustrated website](https://xidist.xyz/artists-way.html)
+- [All 25 projects: dated READMEs, links, and previews](projects/README.md)
+- [Practice, workbook, and learning resources](ARTISTS_WAY.md)
+- [Patreon products and TikTok Shop status](docs/commerce-links.md)
+- [Portfolio constellation](https://xidist.xyz/) · [TouchDesigner network](https://xidist.xyz/touchdesigner.html) · [Résumé](https://xidist.xyz/resume.html)
+
+## A few windows into the work
+
+[![Chroma Portal synthetic preview](https://raw.githubusercontent.com/xidist/chroma-portal/main/docs/demo-synthetic.png)](projects/chroma-portal/README.md)
+Chroma Portal — synthetic test render; live webcam and TouchDesigner testing pending.
+
+[![The Signal Attic browser preview](docs/images/signal-attic.jpg)](projects/signal-attic/README.md)
+The Signal Attic — browser capture showing the Canvas fallback.
+
+[![Keeks the Geek browser demo](docs/images/keeks.jpg)](projects/keeks/README.md)
+Keeks the Geek — authored-note demo interface.
+
+## Dates and availability
+
+Every project README has a dated documentation update and links to its source and site. Original note dates and repository creation dates are labeled separately. Screenshots retain their context; missing captures are marked pending.
+
+Twelve Patreon product links are recorded in the November 9, 2026 store handoff. TikTok Shop product URLs remain pending; the TikTok profile is listed separately.
+
+## Original workspace and learning archive
+
+### [hermarshaspeaks: touchdesigner](https://www.notion.so/hermarshaspeaks-touchdesigner-92b1b5bea2334999abe600b15e7c68cf?source=copy_link)
 
 <img width="1964" height="1584" alt="image" src="https://github.com/user-attachments/assets/5c1030c2-a583-4a40-8eb6-3ca674134025" />
 
@@ -31,3 +62,4 @@ Create:
 - [signal rot](hermarshaspeaks%20touchdesigner/td%20projects/signal%20rot%20362a70bb517c80f8b812e13d4b784b48.md) | [assets](hermarshaspeaks%20touchdesigner/td%20projects/signal%20rot)
 - [THE MATRIX](hermarshaspeaks%20touchdesigner/td%20projects/THE%20MATRIX%20361a70bb517c80a3999ede23b9560db5.md) | [assets](hermarshaspeaks%20touchdesigner/td%20projects/THE%20MATRIX)
 - [water](hermarshaspeaks%20touchdesigner/td%20projects/water%20360a70bb517c802b9178c1359fad6946.md) | [assets](hermarshaspeaks%20touchdesigner/td%20projects/water)
+
