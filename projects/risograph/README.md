@@ -11,6 +11,9 @@ A guitar and moving-image study with saturated color and a risograph-inspired pr
 - [Website project / collection entry](https://xidist.xyz/artists-way.html#risograph)
 - [Source files / original notes](https://github.com/xidist/taw-002/blob/main/hermarshaspeaks%20touchdesigner/td%20projects/risograph%20-%20supermarketsallad%2035ca70bb517c807d80a3f2d88a1288bc.md)
 - [The Artist’s Way gallery](https://xidist.xyz/artists-way.html)
+- [Dated project entry](../dates/2026-05-10/risograph/README.md)
+- [Source repository](https://github.com/xidist/taw-002)
+- [Repository README](../../README.md)
 - [All project READMEs](../README.md)
 
 ## Preview

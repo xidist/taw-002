@@ -11,6 +11,9 @@ An editable interactive browser studio with orbit controls, scene modes, object 
 - [Website project / collection entry](https://xidist.xyz/world.html)
 - [Source files / original notes](https://github.com/xidist/xidist.xyz/blob/main/world.html)
 - [The Artist’s Way gallery](https://xidist.xyz/artists-way.html)
+- [Dated project entry](../dates/2026-11-09/signal-attic/README.md)
+- [Source repository](https://github.com/xidist/xidist.xyz)
+- [Repository README](https://github.com/xidist/xidist.xyz/blob/main/README.md)
 - [All project READMEs](../README.md)
 
 ## Preview

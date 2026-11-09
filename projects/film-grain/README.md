@@ -11,6 +11,9 @@ An experimental edge-and-luminance animation with rough, glitchy motion.
 - [Website project / collection entry](https://xidist.xyz/touchdesigner.html#grain)
 - [Source files / original notes](https://github.com/xidist/taw-002/blob/main/hermarshaspeaks%20touchdesigner/td%20projects/FILM%20GRAIN%2035ea70bb517c801bb4a7c3351dea913d.md)
 - [The Artist’s Way gallery](https://xidist.xyz/artists-way.html)
+- [Dated project entry](../dates/2026-05-12/film-grain/README.md)
+- [Source repository](https://github.com/xidist/taw-002)
+- [Repository README](../../README.md)
 - [All project READMEs](../README.md)
 
 ## Preview

@@ -11,6 +11,9 @@ A visual study with saved TouchDesigner projects and a component in day6-mediapi
 - [Website project / collection entry](https://xidist.xyz/artists-way.html#signal-rot)
 - [Source files / original notes](https://github.com/xidist/taw-002/blob/main/hermarshaspeaks%20touchdesigner/td%20projects/signal%20rot%20362a70bb517c80f8b812e13d4b784b48.md)
 - [The Artist’s Way gallery](https://xidist.xyz/artists-way.html)
+- [Dated project entry](../dates/2026-05-15/signal-rot/README.md)
+- [Source repository](https://github.com/xidist/taw-002)
+- [Repository README](../../README.md)
 - [All project READMEs](../README.md)
 
 ## Preview

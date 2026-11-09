@@ -11,6 +11,9 @@ Map a normalized finger position to a circular hue palette for your own visuals.
 - [Website project / collection entry](https://xidist.xyz/touchdesigner.html#colorshift)
 - [Source files / original notes](https://github.com/xidist/taw-002/blob/main/hermarshaspeaks%20touchdesigner/td%20projects/finger%20colorshift%20361a70bb517c80309256d2c4686dc069.md)
 - [The Artist’s Way gallery](https://xidist.xyz/artists-way.html)
+- [Dated project entry](../dates/2026-05-15/finger-colorshift/README.md)
+- [Source repository](https://github.com/xidist/taw-002)
+- [Repository README](../../README.md)
 - [All project READMEs](../README.md)
 
 ## Preview

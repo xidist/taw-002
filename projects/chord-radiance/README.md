@@ -12,6 +12,7 @@ Play a polyphonic keyboard instrument that turns notes into color and chords int
 - [Source files / original notes](https://github.com/xidist/touchdesigner-chord-visualizer)
 - [Implementation README](https://github.com/xidist/touchdesigner-chord-visualizer/blob/main/README.md)
 - [The Artist’s Way gallery](https://xidist.xyz/artists-way.html)
+- [Dated project entry](../dates/2026-11-07/chord-radiance/README.md)
 - [All project READMEs](../README.md)
 
 ## Preview
